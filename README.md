@@ -1,5 +1,5 @@
 # Diamond_printer
-Write a function diamondPrinter(n,character,filled,fillCharacter) that, given an in- teger size n, prints a diamond shape, which may or may not be filled. Additionally, in the middle of the shape it prints “Lancaster University!”, to the maximum possible extent. For instance, a diamond shape with size 5, using asterisks, but filled with o, would be as follows:
+A function diamondPrinter(n,character,filled,fillCharacter) that, given an in- teger size n, prints a diamond shape, which may or may not be filled. Additionally, in the middle of the shape it prints “Lancaster University!”, to the maximum possible extent. For instance, a diamond shape with size 5, using asterisks, but filled with o, would be as follows:
        *
       *o*
      *Lan*
